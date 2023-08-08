@@ -15,8 +15,7 @@ Our mission is to bring forth groundbreaking solutions that enhance productivity
 - Foster innovation: We push the boundaries of technology, creating solutions that shape the future.
 - Enhance user experience: We prioritize user needs, designing technology that enhances their experience in every way.
 - Drive positive impact: We believe in technology's potential to create a positive impact on individuals, businesses, and society.
-- Embrace cutting-edge concepts: We stay at the forefront of technological advancements, embracing concepts like artificial intelligence and blockchain.
-- Global recognition: We aspire to be a global leader in technological innovation, making a difference worldwide.
+- Embrace cutting-edge concepts: We stay at the forefront of technological advancements, embracing concepts like AI and blockchain.
 
 Join us on this exciting journey as we pave the way for a future where technology and humans harmoniously coexist.
 

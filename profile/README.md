@@ -17,8 +17,6 @@ Our mission is to bring forth groundbreaking solutions that enhance productivity
 - Drive positive impact: We believe in technology's potential to create a positive impact on individuals, businesses, and society.
 - Embrace cutting-edge concepts: We stay at the forefront of technological advancements, embracing concepts like AI and blockchain.
 
-Join us on this exciting journey as we pave the way for a future where technology and humans harmoniously coexist.
-
 For more information about Ashari Tech and our projects, please visit our website (https://tech.ashari.me/).
 
 If you have any questions or need assistance, feel free to reach out to us at support@tech.ashari.me.

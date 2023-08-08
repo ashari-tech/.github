@@ -15,7 +15,7 @@ Our mission is to bring forth groundbreaking solutions that enhance productivity
 - Foster innovation: We push the boundaries of technology, creating solutions that shape the future.
 - Enhance user experience: We prioritize user needs, designing technology that enhances their experience in every way.
 - Drive positive impact: We believe in technology's potential to create a positive impact on individuals, businesses, and society.
-- Embrace cutting-edge concepts: We stay at the forefront of technological advancements, embracing concepts like AI and blockchain.
+- Embrace cutting-edge concepts: We stay at the forefront of technological advancements.
 
 For more information about Ashari Tech and our projects, please visit our website (https://tech.ashari.me/).
 
